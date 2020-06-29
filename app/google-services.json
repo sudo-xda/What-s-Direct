@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "607942660662",
+    "firebase_url": "https://whatsdirect-7887f.firebaseio.com",
+    "project_id": "whatsdirect-7887f",
+    "storage_bucket": "whatsdirect-7887f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607942660662:android:db1d265a00ec162fbebe97",
+        "android_client_info": {
+          "package_name": "com.chat.whatsdirect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607942660662-f5f8b1r7lti0arq5rqu5se3b970vmh6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.whatsdirect",
+            "certificate_hash": "4bdc4ed97d6fb9470ec29156841d6b15e83d5c80"
+          }
+        },
+        {
+          "client_id": "607942660662-t3vnua5t05agg2oleelpkggo1hcp6u4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1cYvbDcpjvBm9ilYCfjd9K3OigkLv5XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607942660662-t3vnua5t05agg2oleelpkggo1hcp6u4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
