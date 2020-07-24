@@ -1,4 +1,4 @@
-# WA-direct
+# Whats Direct
 An Android App to  send message Directly to whats app without saving number.
 Worldwide Support.
 Ad-free
